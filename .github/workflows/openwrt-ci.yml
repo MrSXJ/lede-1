@@ -90,7 +90,6 @@ jobs:
           CONFIG_PACKAGE_luci-theme-argon=y
           CONFIG_PACKAGE_samba4=y
           CONFIG_PACKAGE_luci-app-passwall=y
-          #CONFIG_KERNEL_BUILD_DOMAIN="Azure"
           EOF
           #
           # ===============================================================
