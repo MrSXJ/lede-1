@@ -88,7 +88,6 @@ jobs:
           CONFIG_PACKAGE_luci-app-webadmin=y
           CONFIG_PACKAGE_luci-lib-docker=y
           CONFIG_PACKAGE_luci-theme-argon=y
-          CONFIG_PACKAGE_samba4=y
           CONFIG_PACKAGE_luci-app-passwall=y
           EOF
           #
