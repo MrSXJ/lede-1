@@ -87,7 +87,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-webadmin=y
           CONFIG_PACKAGE_luci-lib-docker=y
           CONFIG_PACKAGE_luci-app-passwall=y
-          CONFIG_PACKAGE_luci-theme-argon-dark-mod=y
+          #CONFIG_PACKAGE_luci-theme-argon-dark-mod=y
           EOF
           #
           # ===============================================================
